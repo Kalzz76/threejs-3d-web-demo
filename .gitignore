@@ -1,0 +1,6 @@
+
+# Auto added ignore rules
+.claude/
+.idea/
+.vscode/
+node_modules/
